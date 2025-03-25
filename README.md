@@ -29,3 +29,31 @@
 * **Test DB Connection with PDO:**
 
 ![](/img/7.png)
+
+5. Ahora procedemos a crearnos una carpeta donde vamos a añadir un archivo **docker-compose.ymlm**
+
+![](/img/8.png)
+
+![](/img/9.png)
+
+6. Ahora vamos a levantar los servicios
+
+![](/img/10.png)
+
+7. Por último comprobamos que funcionen
+
+* **DVWA:**
+
+![](/img/11.png)
+
+* **bWAPP:**
+
+![](/img/12.png)
+
+* **phpMyAdmin:**
+
+![](/img/13.png)
+
+* **phpAdmin:**
+
+![](/img/14.png)
